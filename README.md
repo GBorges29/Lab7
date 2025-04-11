@@ -32,11 +32,11 @@ O objetivo deste laboratório é o de consolidar a metodologia proposta para a e
 
 Notas :bulb::
 
-    - Durante as etapas serão solicitados simultaneamente a execução de exercícios nas três vertentes anteriores;
+- Durante as etapas serão solicitados simultaneamente a execução de exercícios nas três vertentes anteriores;
 
-    - Deverá obedecer à nomenclatura proposta, nomeadamente a utilização do prefixo `vector3d...` para os nomes das operações e `VECTOR3D_...` para os códigos de erro;
+- Deverá obedecer à nomenclatura proposta, nomeadamente a utilização do prefixo `vector3d...` para os nomes das operações e `VECTOR3D_...` para os códigos de erro;
 
-    - A especificação do ADT deve ser acompanhada pela documentação doxygen.
+- A especificação do ADT deve ser acompanhada pela documentação doxygen.
 
 ### 2 | Definição de estrutura de dados
 
