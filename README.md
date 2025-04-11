@@ -1,6 +1,6 @@
 # Algoritmos e Tipos Abstratos de Dados
 
-## Lab 6 - Desenvolvimento de um ADT (Vector3D)
+## Lab 7 - Desenvolvimento de um ADT (Vector3D)
 
 Este repositório foi criado a partir de:
 
